@@ -1,2 +1,1 @@
-change is quick.
-yes.
+this is the first line.
